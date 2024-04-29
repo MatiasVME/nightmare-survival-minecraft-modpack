@@ -1,0 +1,13 @@
+name = "Artifacts"
+filename = "artifacts-fabric-9.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/9Kojdc30/artifacts-fabric-9.4.3.jar"
+hash-format = "sha1"
+hash = "b9c16aaa5bbde368f975b6542d4883da753a853b"
+
+[update]
+[update.modrinth]
+mod-id = "P0Mu4wcQ"
+version = "9Kojdc30"

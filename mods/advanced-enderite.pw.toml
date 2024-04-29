@@ -1,0 +1,13 @@
+name = "Advanced Enderite"
+filename = "AdvancedEnderite-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UnqOLQvG/versions/NsNkeIww/AdvancedEnderite-0.1.jar"
+hash-format = "sha1"
+hash = "a66c4253e189ac25769148acd61ae454cbad9f03"
+
+[update]
+[update.modrinth]
+mod-id = "UnqOLQvG"
+version = "NsNkeIww"

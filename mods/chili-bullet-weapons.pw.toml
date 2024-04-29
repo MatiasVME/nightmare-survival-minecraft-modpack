@@ -1,0 +1,13 @@
+name = "Chili Bullet Weapons"
+filename = "chilibulletweapons-fabric-1.20.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TDVQf0jm/versions/WxE4kJjL/chilibulletweapons-fabric-1.20.1-1.4.0.jar"
+hash-format = "sha1"
+hash = "cf9e40c00a980170bf8a4c1dca20ec2de386feb3"
+
+[update]
+[update.modrinth]
+mod-id = "TDVQf0jm"
+version = "WxE4kJjL"

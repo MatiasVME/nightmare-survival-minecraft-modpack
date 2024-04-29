@@ -1,0 +1,13 @@
+name = "SoulZ"
+filename = "soulz-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sz15eTAU/versions/BOfZgRU9/soulz-1.0.jar"
+hash-format = "sha1"
+hash = "16cc51642bdba0422c9dbe2f66b31af3a99aad06"
+
+[update]
+[update.modrinth]
+mod-id = "Sz15eTAU"
+version = "BOfZgRU9"

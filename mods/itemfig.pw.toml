@@ -1,0 +1,13 @@
+name = "ItemFig"
+filename = "itemfig-1.20.1-0.2.7-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vgvGqW1E/versions/fCuHADPV/itemfig-1.20.1-0.2.7-fabric.jar"
+hash-format = "sha1"
+hash = "54855314f48ee11a1e51f61b0669036b9d6041fd"
+
+[update]
+[update.modrinth]
+mod-id = "vgvGqW1E"
+version = "fCuHADPV"

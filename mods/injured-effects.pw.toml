@@ -1,0 +1,13 @@
+name = "Injured Effects"
+filename = "injured-effects-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qmzLjXzU/versions/bHA967Ip/injured-effects-1.4.0.jar"
+hash-format = "sha1"
+hash = "a1d4aa90fd22ee1a3b4347e0832135176451aa67"
+
+[update]
+[update.modrinth]
+mod-id = "qmzLjXzU"
+version = "bHA967Ip"

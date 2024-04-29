@@ -1,0 +1,13 @@
+name = "MedievalMusic"
+filename = "MedievalMusic.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/baxFehVE/versions/DMF7kVNi/MedievalMusic.zip"
+hash-format = "sha1"
+hash = "504939014aa51cb563cae2b4aac564eb072cae15"
+
+[update]
+[update.modrinth]
+mod-id = "baxFehVE"
+version = "DMF7kVNi"

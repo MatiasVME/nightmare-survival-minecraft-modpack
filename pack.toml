@@ -1,12 +1,12 @@
 name = "Nightmare Survival"
 author = "MatiasVME"
-version = "1.0.0"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "11e66170af55a43fbed8da8508446048735a91a93392be85231a11e4bc0b6a09"
+hash = "e56efacce93f0f512d27ec7ff1976bb5032fb9f69a781abda243d28bc7077649"
 
 [versions]
 fabric = "0.15.10"

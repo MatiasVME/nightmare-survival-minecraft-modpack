@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitignore.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "LICENSE"
+hash = "1e26fdf3fc704659cfe0053086d16f2651733444b7dfe1f0a3a424506f566e4e"
+
+[[files]]
+file = "README.md"
+hash = "800b45dd778e28c6d75be58f905f0aae48029ec2490ad2463930b09d2e687f2a"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
@@ -413,11 +425,6 @@ metafile = true
 [[files]]
 file = "mods/more-armor-trims.pw.toml"
 hash = "b197e308f6bad0891356a049e9c96d79663bb6cd09d7936c5e3ad3557a7e160a"
-metafile = true
-
-[[files]]
-file = "mods/more-chests.pw.toml"
-hash = "ebb06694213fb094f0d8797160561cb755d67fa261a74e5eae13f07aa78d4dca"
 metafile = true
 
 [[files]]
